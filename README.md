@@ -1,6 +1,6 @@
 # ISO 15939 Measurement Process Simulator
 Student Name : Yusuf Giray Çakıcı
-Student ID : 202328016  
+# Student ID : 202328016  
 ---------------------------------------------------------------------------------------------
 This project is a software measurement simulator developed based on the ISO/IEC 15939 standard. It automates the process of collecting, analyzing, and visualizing software quality data through a structured 5-step wizard.
 ---------------------------------------------------------------------------------------------
