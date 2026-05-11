@@ -39,3 +39,7 @@ The project does not require any external libraries or dependencies.
 ## AI Collaboration & Acknowledgement
 
 This project was developed with the assistance of Google Gemini (AI) as a collaborative partner.
+
+
+<img width="1230" height="986" alt="Ekran görüntüsü 2026-05-11 230052" src="https://github.com/user-attachments/assets/bb3d52dc-cdaf-4c5c-972c-7aae6d6eb9ab" />
+
