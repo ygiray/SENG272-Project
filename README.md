@@ -43,3 +43,6 @@ This project was developed with the assistance of Google Gemini (AI) as a collab
 
 <img width="1230" height="986" alt="Ekran görüntüsü 2026-05-11 230052" src="https://github.com/user-attachments/assets/bb3d52dc-cdaf-4c5c-972c-7aae6d6eb9ab" />
 
+
+
+#Project presentation Video: https://drive.google.com/file/d/1wTqyFKO5yrJWtF5vu78s-yRY9xWV-kBX/view?usp=sharing
